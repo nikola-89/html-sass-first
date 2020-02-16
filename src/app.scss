@@ -1,13 +1,39 @@
-$base-color: #c6538c;
+$base-color-0: #c6538c;
+$base-color-1: #4caf50;
+$base-color-2: #ffeb3b;
 
-.wrapper h2 {
-    color: $base-color;
+.wrapper_0 h2 {
+    color: $base-color-0;
 }
 
-.wrapper h3 {
-    color: $base-color;
+.wrapper_0 h3 {
+    color: $base-color-0;
 }
 
-.wrapper p {
-    color: $base-color;
+.wrapper_0 p {
+    color: $base-color-0;
+}
+
+.wrapper_1 h2 {
+    color: $base-color-1;
+}
+
+.wrapper_1 h3 {
+    color: $base-color-1;
+}
+
+.wrapper_1 p {
+    color: $base-color-1;
+}
+
+.wrapper_2 h2 {
+    color: $base-color-2;
+}
+
+.wrapper_2 h3 {
+    color: $base-color-2;
+}
+
+.wrapper_2 p {
+    color: $base-color-2;
 }
